@@ -1,1 +1,1 @@
-# server
+### patika.dev MovieStore uygulaması
